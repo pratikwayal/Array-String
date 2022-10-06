@@ -3,7 +3,7 @@ package reverse;
 public class String_swap_withoutusing_third {
 
 	public static void main(String[] args) {
-		String a= "Pratik";
+		String a= "Pankaj";
 		String b="wayal";
 //		a=a+b;
 
